@@ -1,0 +1,4 @@
+DEVELOPMENT PLAN
+- LARAVEL
+  - adding any, try error
+- FLUTTER
